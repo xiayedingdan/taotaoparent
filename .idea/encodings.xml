@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotaocommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotaomanager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotaomanager/taotaoMagangerPojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotaomanager/taotaoManagerDao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotaomanager/taotaoManagerPojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotaomanager/taotaoManagerService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotaomanager/taotaoManagerWeb" charset="UTF-8" />
+  </component>
+</project>
